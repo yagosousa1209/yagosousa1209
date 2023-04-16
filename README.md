@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Yago
 
-- 📘 Estudando Front-End.
+- 📘 Estudando Mobile.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yago-DART" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg">
