@@ -1,17 +1,24 @@
-### Olá! Eu sou o Yago
+# Olá, sou Yago Sousa!
 
-- 📘 Estudando Front-End.
+Estudante de Logística e Google Apps
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Yago-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Yago-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Yago-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Yago-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Yago-TAILWIND-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-</div>
+Sou um estudante de logística e tecnologia, com foco em desenvolver habilidades em Google Apps Script e outras ferramentas de produtividade.
 
-##
+## Habilidades
 
-<div>
-  <a href="https://www.linkedin.com/in/yago-sousa1209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+* Google Apps Script
+* Logística
+* Análise de Dados
+* Desenvolvimento de Scripts
+
+## Projetos
+
+* [Sistema de estoque secundário](link-do-projeto-1)
+
+## Contato
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/carlos-yago-silva-sousa-214a582b2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
 </div>
