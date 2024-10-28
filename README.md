@@ -13,7 +13,7 @@ Sou um estudante de logística e tecnologia, com foco em desenvolver habilidades
 
 ## Projetos
 
-* [Sistema de estoque secundário](link-do-projeto-1)
+* [ESTOQUE SECUNDÁRIO](https://github.com/yagosousa1209/projeto_Estoque_Secundario)
 
 ## Contato
 
