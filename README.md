@@ -2,14 +2,13 @@
 
 Estudante de Logística e ferramentas de analise de dados
 
-Sou um estudante de logística e tecnologia, com foco em desenvolver habilidades em Google Apps Script e outras ferramentas de produtividade.
+Sou um estudante de logística e tecnologia, com foco em desenvolver habilidades em Google Apps e outras ferramentas de produtividade.
 
 ## Habilidades
 
 * Google Apps Script
 * Logística
 * Análise de Dados
-* Desenvolvimento de Scripts
 
 ## Projetos
 
