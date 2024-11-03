@@ -6,7 +6,7 @@ Sou um estudante de logística e tecnologia, com foco em desenvolver habilidades
 
 ## Habilidades
 
-* Google Apps Script
+* Google Apps
 * Logística
 * Análise de Dados
 
