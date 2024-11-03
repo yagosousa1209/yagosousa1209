@@ -1,6 +1,6 @@
 # Olá, sou Yago Sousa!
 
-Estudante de Logística e Google Apps
+Estudante de Logística e ferramentas de analise de dados
 
 Sou um estudante de logística e tecnologia, com foco em desenvolver habilidades em Google Apps Script e outras ferramentas de produtividade.
 
